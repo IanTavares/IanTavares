@@ -45,4 +45,4 @@
 
 ### O que eu não sei, me dê alguns dias 😀
 
-![Ian GitHub stats](https://github-readme-stats.vercel.app/api?username=IanTavares&show_icons=true&theme=tokyonight)
+
