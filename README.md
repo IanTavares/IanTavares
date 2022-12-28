@@ -45,4 +45,4 @@
 
 ### O que eu não sei, me dê alguns dias 😀
 
-
+![snake gif](https://github.com/IanTavares/IanTavares/blod/output/github-contribution-grid-snake.svg)
