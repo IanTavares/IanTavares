@@ -40,9 +40,7 @@ Amo codificar e criar coisas novas, gosto muito de descobrir novas tecnologias e
 <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
+
 
 ### O que eu não sei, me dê alguns dias 😀
 
