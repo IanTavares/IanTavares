@@ -26,7 +26,7 @@ Amo codificar e criar coisas novas, gosto muito de descobrir novas tecnologias e
 
   <img alt="Formando-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
-  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Formando-python" height="30" width="80" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 
 </div>
@@ -41,18 +41,12 @@ Amo codificar e criar coisas novas, gosto muito de descobrir novas tecnologias e
 ### Tecnologias que estou estudando 💻
 
 <div style="display: inline_block"><br/>
-<img align="center" alt="Python" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img alt="Formando-mysql" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
 
 
 ### O que eu não sei, me dê alguns dias 😀
-
-![Ian GitHub stats](https://github-readme-stats.vercel.app/api?username=IanTavares&show_icons=true&theme=tokyonight)
-
-
-![snake gif](https://github.com/Formandodev/Formandodev/blob/output/github-contribution-grid-snake.svg)
-
 
 ![Ian GitHub stats](https://github-readme-stats.vercel.app/api?username=IanTavares&show_icons=true&theme=tokyonight)
 
