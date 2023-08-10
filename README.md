@@ -10,9 +10,11 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-_1qB2Dq_GdChEuPCwwtug)
 
 ### Sobre mim
-Sou um Desenvolvedor Front-end😄
+🚀 Desenvolvedor Web e Criador de Conteúdo apaixonado por Tecnologia, transformando ideias em realidade.
 
-Amo codificar e criar coisas novas, gosto muito de descobrir novas tecnologias e mergulhar fundo na resolução de problemas.
+👨‍💻 Um ano de experiência em HTML, CSS, JavaScript e Python. Iniciei como entusiasta autodidata, aprendendo hebraico e espanhol sozinho. Ministrei aulas de hebraico e criei curso digital. Conhecimento em espanhol aprimorado pela formação no CNA e Proficiência SIELE. Contribuí em projetos freelancer de criação de sites. Domínio em Design criativo e Marketing estratégico devido à gestão do canal no YouTube.
+
+📊 Experiência em criação de Dashboards usando Power BI, apresentando métricas impactantes.
 
 
 ### Tecnologias que eu uso no meu dia e são minhas especialidades:
