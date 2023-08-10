@@ -43,7 +43,11 @@
 ### Tecnologias que estou estudando 💻
 
 <div style="display: inline_block"><br/>
-<img alt="Formando-mysql" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+<img alt="Formando-php" height="30" width="80" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+</div>
+
+<div style="display: inline_block"><br/>
+<img alt="Formando-php" height="30" width="80" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div>
 
 
