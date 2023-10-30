@@ -5,11 +5,6 @@
 
 ## WELCOME TO MY GITHUB 👋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ian-tavares-853788254/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IanTavares)
-[![Whatsaap](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.link/0orzaa)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC-_1qB2Dq_GdChEuPCwwtug)
-
 <p align="center">I ❤️ solve big challenges using technology. <br><br> From backend development using Python to frontend development using HTML, CSS and JavaScript, I am <strong>passionate about discovering new things</strong> and using them to create high-quality solutions. Today I'm a <strong>beginner-level Front End developer</strong> focused on web development looking for a first opportunity.</p>&nbsp;
 
 <div align="center">  
